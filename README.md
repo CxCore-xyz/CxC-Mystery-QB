@@ -1,3 +1,6 @@
+!!!NEW VERSION!!!
+https://github.com/CxCore-xyz/CxC_MysteryV2-QBCore
+
 # Cuxp24-Mystery-QB
 Mystery pack system for qbcore frameworks.
 
